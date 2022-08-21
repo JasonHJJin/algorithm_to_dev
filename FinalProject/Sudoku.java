@@ -45,7 +45,7 @@ public class Sudoku {
                 used_nums_col[board[row][col]][col] = true;
                 used_nums_cell[board[row][col]][cell] = true;
             }
-            indLookup[ind] = new byte[]{(byte)row, (byte)col, (byte)cell}
+            //indLookup[ind] = new byte[]{(byte)row, (byte)col, (byte)cell}
             ind++;
         }
     }
