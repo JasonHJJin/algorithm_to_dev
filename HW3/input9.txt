@@ -1,0 +1,5 @@
+4
+add 1
+add 123
+find 1
+search 1

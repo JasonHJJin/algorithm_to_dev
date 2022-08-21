@@ -1,0 +1,4 @@
+3
+add bob
+search bo
+search bob

@@ -1,0 +1,2 @@
+Full sum: 13
+First 10 digits: 13

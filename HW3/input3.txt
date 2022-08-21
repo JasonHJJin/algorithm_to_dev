@@ -1,0 +1,5 @@
+4
+add superman
+search superman
+search super
+find super

@@ -1,0 +1,6 @@
+5
+add abcdefghijklmnopqrstu
+add abcdefutsrqponmlkjihg
+find abcdef
+search abcdefghijklmnopqrstu
+search abcdefutsrqponmlkjihg

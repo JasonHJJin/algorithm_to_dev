@@ -1,0 +1,4 @@
+3
+add dog
+find doog
+search doog

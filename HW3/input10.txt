@@ -1,0 +1,4 @@
+3
+add aaaa
+find aaa
+search aaa
